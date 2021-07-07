@@ -1,0 +1,10 @@
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\factorialForm\bin\Debug\factorialForm.exe.config
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\factorialForm\bin\Debug\factorialForm.exe
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\factorialForm\bin\Debug\factorialForm.pdb
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\factorialForm\obj\Debug\factorialForm.csprojAssemblyReference.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\factorialForm\obj\Debug\factorialForm.Form1.resources
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\factorialForm\obj\Debug\factorialForm.Properties.Resources.resources
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\factorialForm\obj\Debug\factorialForm.csproj.GenerateResource.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\factorialForm\obj\Debug\factorialForm.csproj.CoreCompileInputs.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\factorialForm\obj\Debug\factorialForm.exe
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\factorialForm\obj\Debug\factorialForm.pdb

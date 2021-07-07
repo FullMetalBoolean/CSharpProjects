@@ -1,0 +1,10 @@
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\AccumulateTestScoreData\bin\Debug\AccumulateTestScoreData.exe.config
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\AccumulateTestScoreData\bin\Debug\AccumulateTestScoreData.exe
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\AccumulateTestScoreData\bin\Debug\AccumulateTestScoreData.pdb
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\AccumulateTestScoreData\obj\Debug\AccumulateTestScoreData.csprojAssemblyReference.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\AccumulateTestScoreData\obj\Debug\AccumulateTestScoreData.Form1.resources
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\AccumulateTestScoreData\obj\Debug\AccumulateTestScoreData.Properties.Resources.resources
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\AccumulateTestScoreData\obj\Debug\AccumulateTestScoreData.csproj.GenerateResource.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\AccumulateTestScoreData\obj\Debug\AccumulateTestScoreData.csproj.CoreCompileInputs.cache
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\AccumulateTestScoreData\obj\Debug\AccumulateTestScoreData.exe
+C:\Users\6CoreGamer\AppData\Local\Temporary Projects\AccumulateTestScoreData\obj\Debug\AccumulateTestScoreData.pdb
